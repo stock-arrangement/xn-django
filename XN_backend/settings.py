@@ -29,6 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'xn-django.herokuapp.com',
+    'xn-django-staging.herokuapp.com',
     '127.0.0.1'
 ]
 
